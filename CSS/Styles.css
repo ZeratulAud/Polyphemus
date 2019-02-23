@@ -21,6 +21,12 @@
 	filter: opacity(100%);
 }
 
+.bandLogo{
+	padding-top: 30px;
+	width: 100%;
+	height: 100%;
+}
+
 .album img{
 	width: 100%;
 }
