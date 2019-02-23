@@ -14,12 +14,6 @@
 }
 
 
-
-.fixed-top{
-  padding-top: 15px;
-  padding-bottom: 15px;
-}
-
 .band img{
 	border-radius: 1px;
   	box-shadow: 0px 0px 0px 14px rgba(0,0,0,0.3);
@@ -51,6 +45,11 @@
 
 .center{
 	text-align: center;
+}
+
+.streamingLink{
+	float: left;
+	padding: 25px;
 }
 
 @font-face {
