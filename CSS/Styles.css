@@ -5,12 +5,19 @@
 }
 
 .top{
-	padding-top: 50px;
+	padding-top: 150px;
 	
 }
 
 .bottom{
 	padding-bottom: 100px;
+}
+
+
+
+.fixed-top{
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .band img{
@@ -19,6 +26,11 @@
 	width: 100%;
 	height: auto;
 	filter: opacity(100%);
+}
+
+.nav-item{
+	font-size: 1.5em;
+	padding-left: 20px;
 }
 
 .bandLogo{
@@ -49,13 +61,13 @@
 h1{
 	color: #844D0C;
 	font-family: metrolox; 
-	font-size: 10em;
+	font-size: 10vw;
 }
 
 h2{
 	color: #844D0C;
 	font-family: metrolox; 
-	font-size: 3em;
+	font-size: 3vw;
 }
 
 body{
