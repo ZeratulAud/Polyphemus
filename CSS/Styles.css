@@ -52,12 +52,16 @@
 }
 
 .links{
-	margin: auto;
+	background-color: grey;
+}
+
+.stream{
+	margin-top: 25px;
 }
 
 .streamingLink{
 	float: left;
-	padding-top: 25px;
+	padding-top: 10px;
 }
 
 @font-face {
