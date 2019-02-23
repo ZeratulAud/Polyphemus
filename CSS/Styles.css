@@ -1,7 +1,9 @@
-.fixedWidth @media only screen and (max-width : 1200px) {
-	width: 75%;
-	
-	display: inline-block;
+@media only screen and (min-width : 1200px) {
+	.fixedWidth {
+		width: 75%;
+		
+		display: inline-block;
+	}
 }
 
 .top{
