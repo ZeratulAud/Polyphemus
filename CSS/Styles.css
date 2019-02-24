@@ -6,8 +6,28 @@
 	}
 }
 
+.myNavbar{
+	background-color: #343A40;
+}
+
+.myNavbar li{
+	text-align: center;
+	float: left;
+	font-size: 2.5vw;
+	padding: 0;
+}
+
+
+.myNavbar ul{
+	color: grey;
+	list-style: none;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+}
+
 .top{
-	padding-top: 150px;
+	padding-top: 50px;
 	
 }
 
@@ -33,10 +53,12 @@
 	padding-left: 20px;
 }
 
-.bandLogo{
-	padding-top: 30px;
-	width: 100%;
-	height: 100%;
+
+.bandLogo {
+	display: block;
+	float: left;
+	width: 16%;
+	height: 16%;
 }
 
 .album img{
@@ -56,9 +78,13 @@
 	text-align: center;
 }
 
+.navbar-brand{
+
+}
+
 .links{
 	border-radius: 15px;
-	background-color: grey;
+	background-color: #343A40;
 }
 
 .stream{
@@ -70,7 +96,7 @@
 	padding-top: 10px;
 }
 .portrait{
-	padding-top: 15px;
+	padding-top: 28px;
 }
 .portrait img{
 	width: 100%;
@@ -85,7 +111,7 @@ h1{
 	text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
 	color: #F26725;
 	font-family: metrolox; 
-	font-size: 10vw;
+	font-size: 8vw;
 }
 
 h2{
@@ -111,4 +137,18 @@ p{
 
 #apple{
 	padding-top: 15px;
+}
+.selected{
+	color: white;
+}
+a:visited{
+	color: #9A9DA0;
+}
+
+a:hover{
+	color: white;
+}
+
+a{
+	color: #9A9DA0;
 }
