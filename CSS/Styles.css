@@ -149,6 +149,13 @@ p{
 
 }
 
+.discription{
+	background-color: 	#303030;
+	border-radius: 25px;
+	margin-bottom: 25px;
+	margin-top: 20px;
+}
+
 .selected{
 	color: white; 
 }
